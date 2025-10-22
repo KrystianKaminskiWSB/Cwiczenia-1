@@ -1,5 +1,5 @@
 # zoo online
-**zoo online** to prosta strona internetowa przezentująca wirtualne zoo, dostępna na (GitHub Pages) (https://krystiankaminskiwsb.github.io/Cwiczenia-1/)
+**zoo online** to prosta strona internetowa przezentująca wirtualne zoo, dostępna na [GitHub Pages](https://krystiankaminskiwsb.github.io/Cwiczenia-1/)
 
 ## Spis treści
 - (Opis projektu) (#opis - projektu)
