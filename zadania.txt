@@ -1,5 +1,5 @@
-na nowym branchu css wprowadzic 4 commity ze zminamai strony dotyczacymi wygladu strony ( kazdy commit ma byc osobno)
-wyslac commity do githuba
+git checkout -b css
+
 ----------------------
 za pomoca rebase -i polaczyc 4 commity w jeden commit 
 wyslac aktualizacje do githuba
