@@ -12,3 +12,6 @@ h1 {
     text-decoration: underline;
     color: #00ff0d;
 }
+body {
+    background-color: red !important;
+}
